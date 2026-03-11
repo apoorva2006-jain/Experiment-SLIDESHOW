@@ -1,4 +1,4 @@
-package com.example.myapplicationexp3;
+package com.example.exp3slideshow;
 
 import android.os.Bundle;
 import android.os.Handler;
